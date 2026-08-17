@@ -6,3 +6,4 @@ Besoin métier:
 - Quel est le nombre d'incident par opérateur et région ?
 - Quel est le pourcentage  de CO2 évité par type d'énergie ?
 - Quel est la capacité d'énergie installé par opérateur ?
+ ![Tableau de bord](Tableau%20de%20bord%20-%20ER%20France.png)
