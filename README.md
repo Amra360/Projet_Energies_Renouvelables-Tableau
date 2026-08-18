@@ -1,4 +1,3 @@
-Contexte:
 Un acteur du secteur des énergies renouvelables souhaite analyser les performances de son parc. Une analyse qui prête attention aux opérateurs, les incidents, les capacités, les régions où l'activité a lieu.
 
 Besoin métier:
